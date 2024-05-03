@@ -4,5 +4,5 @@
 
 ## Contacto
 - Correo Electrónico: theking_hch@hotmail.com
-- LinkedIn: [(https://www.linkedin.com/in/carlos-andres-colorado/)]
-- Twitter: [@andres_mega]
+- LinkedIn: (https://www.linkedin.com/in/carlos-andres-colorado/)
+- Twitter: @andres_mega
